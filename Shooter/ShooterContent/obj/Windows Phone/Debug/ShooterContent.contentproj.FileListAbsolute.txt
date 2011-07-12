@@ -1,0 +1,2 @@
+C:\Users\serup\Documents\Visual Studio 2010\Projects\WindowsGame_shooter\Shooter\ShooterContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\ShooterContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

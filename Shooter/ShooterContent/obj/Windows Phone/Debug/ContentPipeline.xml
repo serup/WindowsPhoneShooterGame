@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bgLayer1.png</Source>
+      <Name>bgLayer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\bgLayer1.xnb</Output>
+      <Time>2011-04-15T12:57:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bgLayer2.png</Source>
+      <Name>bgLayer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\bgLayer2.xnb</Output>
+      <Time>2011-04-15T12:57:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>endMenu.png</Source>
+      <Name>endMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\endMenu.xnb</Output>
+      <Time>2011-04-15T12:57:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\explosion.xnb</Output>
+      <Time>2011-04-15T12:57:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>laser.png</Source>
+      <Name>laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\laser.xnb</Output>
+      <Time>2011-04-15T12:57:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>mainbackground.png</Source>
+      <Name>mainbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mainbackground.xnb</Output>
+      <Time>2011-04-15T12:57:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMenu.png</Source>
+      <Name>mainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mainMenu.xnb</Output>
+      <Time>2011-04-15T12:57:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>mine.png</Source>
+      <Name>mine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mine.xnb</Output>
+      <Time>2011-04-15T12:57:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>mineAnimation.png</Source>
+      <Name>mineAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mineAnimation.xnb</Output>
+      <Time>2011-04-15T12:57:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\player.xnb</Output>
+      <Time>2011-07-11T13:47:51+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shipAnimation.png</Source>
+      <Name>shipAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\shipAnimation.xnb</Output>
+      <Time>2011-07-11T14:29:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\explosion.wav</Source>
+      <Name>Sound\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\explosion.xnb</Output>
+      <Time>2011-04-15T12:57:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\laserFire.wav</Source>
+      <Name>Sound\laserFire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\laserFire.xnb</Output>
+      <Time>2011-04-15T12:57:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\gameMusic.mp3</Source>
+      <Name>Sound\gameMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\gameMusic.xnb</Output>
+      <Extra>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\gameMusic.wma</Extra>
+      <Time>2011-04-15T12:57:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\menuMusic.mp3</Source>
+      <Name>Sound\menuMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\menuMusic.xnb</Output>
+      <Extra>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\menuMusic.wma</Extra>
+      <Time>2011-04-15T12:57:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\gameFont.xnb</Output>
+      <Time>2011-04-15T12:57:48+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\ShooterContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\ShooterContent\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-07-07T09:59:11.7819792+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
