@@ -57,3 +57,9 @@ C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Deb
 C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml
 C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.xap
 C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.xap
+C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\GameThumbnail.png
