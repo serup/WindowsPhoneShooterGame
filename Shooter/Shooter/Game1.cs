@@ -63,10 +63,16 @@ namespace Shooter
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            // Load the player resources 
-            Vector2 playerPosition = new Vector2(GraphicsDevice.Viewport.TitleSafeArea.X, GraphicsDevice.Viewport.TitleSafeArea.Y + GraphicsDevice.Viewport.TitleSafeArea.Height / 2);
-            player.Initialize(Content.Load<Texture2D>("player"), playerPosition); 
+            // Load the player resources
+            Animation playerAnimation = new Animation();
+            Texture2D playerTexture = Content.Load<Texture2D>("shipAnimation");
+            playerAnimation.Initialize(playerTexture, Vector2.Zero, 115, 69, 8, 30, Color.White, 1f, true);
 
+
+            Vector2 playerPosition = new Vector2(GraphicsDevice.Viewport.TitleSafeArea.X, GraphicsDevice.Viewport.TitleSafeArea.Y
+            + GraphicsDevice.Viewport.TitleSafeArea.Height / 2);
+            player.Initialize(playerAnimation, playerPosition);
+            
         }
 
         /// <summary>
@@ -97,6 +103,9 @@ namespace Shooter
 
         private void UpdatePlayer(GameTime gameTime)
         {
+            // Pass the timing from the game loop’s Update() method into the Player class
+            player.Update(gameTime);
+
             // Window Phone Controls
             while (TouchPanel.IsGestureAvailable)
             {
