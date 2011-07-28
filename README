@@ -1,1 +1,13 @@
 example game in C# for windows phone
+
+current version has following:
+
+player
+laser
+enemy
+explosions
+
+-- next up
+
+sounds
+text
