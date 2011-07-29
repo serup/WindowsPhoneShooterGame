@@ -1,5 +1,8 @@
 example game in C# for windows phone
 
+
+
+
 current version has following:
 
 player
@@ -11,3 +14,60 @@ explosions
 
 sounds
 text
+
+
+Development environment setup:
+***
+Microsoft Visual Studio 2010
+Version 10.0.30319.1 RTMRel
+Microsoft .NET Framework
+Version 4.0.30319 RTMRel
+
+Installed Version: Premium
+
+Microsoft Office Developer Tools   01021-532-2002467-70768
+Microsoft Office Developer Tools
+
+Microsoft Visual Basic 2010   01021-532-2002467-70768
+Microsoft Visual Basic 2010
+
+Microsoft Visual C# 2010   01021-532-2002467-70768
+Microsoft Visual C# 2010
+
+Microsoft Visual C++ 2010   01021-532-2002467-70768
+Microsoft Visual C++ 2010
+
+Microsoft Visual F# 2010   01021-532-2002467-70768
+Microsoft Visual F# 2010
+
+Microsoft Visual Studio 2010 Code Analysis Spell Checker   01021-532-2002467-70768
+Microsoft Visual Studio 2010 Code Analysis Spell Checker
+
+Portions of International CorrectSpell™ spelling correction system © 1993 by Lernout & Hauspie Speech Products N.V. All rights reserved.
+
+The American Heritage® Dictionary of the English Language, Third Edition Copyright © 1992 Houghton Mifflin Company. Electronic version licensed from Lernout & Hauspie Speech Products N.V. All rights reserved.
+
+Microsoft Visual Studio 2010 Team Explorer   01021-532-2002467-70768
+Microsoft Visual Studio 2010 Team Explorer
+
+Microsoft Visual Web Developer 2010   01021-532-2002467-70768
+Microsoft Visual Web Developer 2010
+
+Microsoft Windows Phone Developer Tools - ENU   01021-532-2002467-70768
+Microsoft Windows Phone Developer Tools - ENU
+
+Crystal Reports Templates for Microsoft Visual Studio 2010   
+Crystal Reports Templates for Microsoft Visual Studio 2010
+
+Hotfix for Microsoft Visual Studio 2010 Premium - ENU (KB982218)   KB982218
+This hotfix is for Microsoft Visual Studio 2010 Premium - ENU.
+If you later install a more recent service pack, this hotfix will be uninstalled automatically.
+For more information, visit http://support.microsoft.com/kb/982218.
+
+Microsoft Visual Studio 2010 SharePoint Developer Tools   10.0.30319
+Microsoft Visual Studio 2010 SharePoint Developer Tools
+
+Microsoft XNA Game Studio   4.0
+Microsoft XNA Game Studio 4.0
+Build 4.0.20823.0
+***

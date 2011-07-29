@@ -25,7 +25,6 @@ C:\Users\serup\Documents\Visual Studio 2010\Projects\WindowsGame_shooter\Shooter
 C:\Users\serup\Documents\Visual Studio 2010\Projects\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\AppManifest.xaml
 C:\Users\serup\Documents\Visual Studio 2010\Projects\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml.g
 C:\Users\serup\Documents\Visual Studio 2010\Projects\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml
-bin\Windows Phone\Debug\GameThumbnail.png
 C:\Users\serup\Documents\Visual Studio 2010\Projects\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.xap
 C:\Users\serup\Documents\Visual Studio 2010\Projects\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\XapCacheFile.xml
 C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\bgLayer1.xnb
@@ -57,9 +56,33 @@ C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Deb
 C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml
 C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.xap
 C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\XapCacheFile.xml
-C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.xap
-C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\XapCacheFile.xml
-C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\AppManifest.xaml
-C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml.g
-C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml
-bin\Windows Phone\Debug\GameThumbnail.png
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\bgLayer1.xnb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\bgLayer2.xnb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\endMenu.xnb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\explosion.xnb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\laser.xnb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mainbackground.xnb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mainMenu.xnb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mine.xnb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mineAnimation.xnb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\player.xnb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\shipAnimation.xnb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\explosion.xnb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\laserFire.xnb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\gameMusic.xnb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\menuMusic.xnb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\gameFont.xnb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\gameMusic.wma
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\menuMusic.wma
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.dll
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.pdb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\Shooter.dll
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\Shooter.pdb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.xap
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\XapCacheFile.xml

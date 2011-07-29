@@ -1,25 +1,25 @@
-﻿<xapCache source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="13-07-2011 11:35:46">
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\Background.png" archivePath="Background.png" lastWriteTime="15-04-2011 12:57:46" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\GameThumbnail.png" archivePath="GameThumbnail.png" lastWriteTime="15-04-2011 12:57:46" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12-07-2011 12:30:05" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="12-07-2011 12:30:05" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.dll" archivePath="Shooter.dll" lastWriteTime="13-07-2011 11:35:44" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\bgLayer1.xnb" archivePath="Content\bgLayer1.xnb" lastWriteTime="13-07-2011 08:55:30" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\bgLayer2.xnb" archivePath="Content\bgLayer2.xnb" lastWriteTime="13-07-2011 08:55:30" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\endMenu.xnb" archivePath="Content\endMenu.xnb" lastWriteTime="13-07-2011 08:55:31" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\explosion.xnb" archivePath="Content\explosion.xnb" lastWriteTime="13-07-2011 08:55:31" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\laser.xnb" archivePath="Content\laser.xnb" lastWriteTime="13-07-2011 08:55:31" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mainbackground.xnb" archivePath="Content\mainbackground.xnb" lastWriteTime="13-07-2011 08:55:31" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mainMenu.xnb" archivePath="Content\mainMenu.xnb" lastWriteTime="13-07-2011 08:55:32" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mine.xnb" archivePath="Content\mine.xnb" lastWriteTime="13-07-2011 08:55:32" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mineAnimation.xnb" archivePath="Content\mineAnimation.xnb" lastWriteTime="13-07-2011 08:55:32" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\player.xnb" archivePath="Content\player.xnb" lastWriteTime="13-07-2011 08:55:32" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\shipAnimation.xnb" archivePath="Content\shipAnimation.xnb" lastWriteTime="13-07-2011 08:55:32" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\explosion.xnb" archivePath="Content\Sound\explosion.xnb" lastWriteTime="13-07-2011 08:55:32" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\laserFire.xnb" archivePath="Content\Sound\laserFire.xnb" lastWriteTime="13-07-2011 08:55:32" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\gameMusic.xnb" archivePath="Content\Sound\gameMusic.xnb" lastWriteTime="13-07-2011 08:55:37" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\menuMusic.xnb" archivePath="Content\Sound\menuMusic.xnb" lastWriteTime="13-07-2011 08:55:39" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\gameFont.xnb" archivePath="Content\gameFont.xnb" lastWriteTime="13-07-2011 08:55:39" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\gameMusic.wma" archivePath="Content\Sound\gameMusic.wma" lastWriteTime="13-07-2011 08:55:37" />
-  <file source="C:\Users\serup\Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\menuMusic.wma" archivePath="Content\Sound\menuMusic.wma" lastWriteTime="13-07-2011 08:55:39" />
+﻿<xapCache source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="28-07-2011 23:33:25">
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\Background.png" archivePath="Background.png" lastWriteTime="15-04-2011 12:57:46" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\GameThumbnail.png" archivePath="GameThumbnail.png" lastWriteTime="15-04-2011 12:57:46" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12-07-2011 12:30:05" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="12-07-2011 12:30:05" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.dll" archivePath="Shooter.dll" lastWriteTime="28-07-2011 23:33:21" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\bgLayer1.xnb" archivePath="Content\bgLayer1.xnb" lastWriteTime="28-07-2011 23:33:13" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\bgLayer2.xnb" archivePath="Content\bgLayer2.xnb" lastWriteTime="28-07-2011 23:33:13" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\endMenu.xnb" archivePath="Content\endMenu.xnb" lastWriteTime="28-07-2011 23:33:13" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\explosion.xnb" archivePath="Content\explosion.xnb" lastWriteTime="28-07-2011 23:33:13" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\laser.xnb" archivePath="Content\laser.xnb" lastWriteTime="28-07-2011 23:33:13" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mainbackground.xnb" archivePath="Content\mainbackground.xnb" lastWriteTime="28-07-2011 23:33:13" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mainMenu.xnb" archivePath="Content\mainMenu.xnb" lastWriteTime="28-07-2011 23:33:14" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mine.xnb" archivePath="Content\mine.xnb" lastWriteTime="28-07-2011 23:33:14" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\mineAnimation.xnb" archivePath="Content\mineAnimation.xnb" lastWriteTime="28-07-2011 23:33:14" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\player.xnb" archivePath="Content\player.xnb" lastWriteTime="28-07-2011 23:33:14" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\shipAnimation.xnb" archivePath="Content\shipAnimation.xnb" lastWriteTime="28-07-2011 23:33:14" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\explosion.xnb" archivePath="Content\Sound\explosion.xnb" lastWriteTime="28-07-2011 23:33:14" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\laserFire.xnb" archivePath="Content\Sound\laserFire.xnb" lastWriteTime="28-07-2011 23:33:14" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\gameMusic.xnb" archivePath="Content\Sound\gameMusic.xnb" lastWriteTime="28-07-2011 23:33:18" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\menuMusic.xnb" archivePath="Content\Sound\menuMusic.xnb" lastWriteTime="28-07-2011 23:33:20" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\gameFont.xnb" archivePath="Content\gameFont.xnb" lastWriteTime="28-07-2011 23:33:20" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\gameMusic.wma" archivePath="Content\Sound\gameMusic.wma" lastWriteTime="28-07-2011 23:33:18" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\menuMusic.wma" archivePath="Content\Sound\menuMusic.wma" lastWriteTime="28-07-2011 23:33:20" />
 </xapCache>
