@@ -477,7 +477,10 @@ namespace Shooter
             if (player.Health <= 0)
             {
                 player.Health = 100;
-                //score = 0;
+                if (score > 0)
+                {
+                    score = (score / 2);
+                }
             }
         }
     }
