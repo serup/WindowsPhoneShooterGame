@@ -55,6 +55,16 @@ namespace Shooter
         Texture2D explosionTexture;
         List<Animation> explosions;
 
+        // The sound is played when a laser is fired
+        SoundEffect laserSound;
+
+        // The sound used when the player or an enemy dies
+        SoundEffect explosionSound;
+
+        // The music played during gameplay
+        Song gameplayMusic;
+
+
 
         public Game1()
         {
@@ -105,6 +115,21 @@ namespace Shooter
             base.Initialize();
         }
 
+        private void PlayMusic(Song song)
+        {
+            // Due to the way the MediaPlayer plays music,
+            // we have to catch the exception. Music will play when the game is not tethered
+            try
+            {
+                // Play the music
+                MediaPlayer.Play(song);
+
+                // Loop the currently playing song
+                MediaPlayer.IsRepeating = true;
+            }
+            catch { }
+        }
+
         /// <summary>
         /// LoadContent will be called once per game and is the place to load
         /// all of your content.
@@ -135,7 +160,15 @@ namespace Shooter
             // Load explosion
             explosionTexture = Content.Load<Texture2D>("explosion");
 
-                        mainBackground = Content.Load<Texture2D>("mainbackground");
+            // Load the music
+            gameplayMusic = Content.Load<Song>("sound/gameMusic");
+            // Load the laser and explosion sound effect
+            laserSound = Content.Load<SoundEffect>("sound/laserFire");
+            explosionSound = Content.Load<SoundEffect>("sound/explosion");
+            // Start the music right away
+            PlayMusic(gameplayMusic);
+
+            mainBackground = Content.Load<Texture2D>("mainbackground");
         }
 
         /// <summary>
@@ -308,6 +341,9 @@ namespace Shooter
 
                 // Add the projectile, but add it to the front and center of the player
                 AddProjectile(player.Position + new Vector2(player.Width / 2, 0));
+
+                // Play the laser sound
+                laserSound.Play();
             }
 
         }
@@ -355,6 +391,8 @@ namespace Shooter
                     {
                         // Add an explosion
                         AddExplosions(enemies[i].Position);
+                        // Play the explosion sound
+                        explosionSound.Play();
                     }
 
                     enemies.RemoveAt(i);
