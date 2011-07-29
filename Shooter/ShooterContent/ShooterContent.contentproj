@@ -62,6 +62,11 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
+    <Compile Include="gameFont.spritefont">
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+    </Compile>
     <Compile Include="laser.png">
       <Name>laser</Name>
       <Importer>TextureImporter</Importer>
@@ -119,8 +124,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="gameFont.spritefont">
-      <Name>gameFont</Name>
+    <Compile Include="gameOverFont.spritefont">
+      <Name>gameOverFont</Name>
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
     </Compile>

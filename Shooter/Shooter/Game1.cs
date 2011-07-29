@@ -69,6 +69,11 @@ namespace Shooter
 
         // The font used to display the UI elements
         SpriteFont font;
+        SpriteFont gameoverfont;
+
+        // Time for game over to be displayed
+        TimeSpan gameoverTime;
+        TimeSpan previousGameoverTime;
 
         public Game1()
         {
@@ -118,6 +123,9 @@ namespace Shooter
 
             // Set player's score to zero
             score = 0;
+
+            // Set gameover display time
+            gameoverTime = TimeSpan.FromSeconds(8f);
             
             base.Initialize();
         }
@@ -174,6 +182,8 @@ namespace Shooter
             explosionSound = Content.Load<SoundEffect>("sound/explosion");
             // Load the score font
             font = Content.Load<SpriteFont>("gameFont");
+            // Load the gameover font
+            gameoverfont = Content.Load<SpriteFont>("gameOverFont");
 
             // Start the music right away
             PlayMusic(gameplayMusic);
@@ -356,6 +366,7 @@ namespace Shooter
                 laserSound.Play();
             }
 
+
             if (player.Health <= 0)
             {
                 // Add an explosion
@@ -364,6 +375,7 @@ namespace Shooter
                 explosionSound.Play();
                 // Add to the player's score
                 score -= 100;
+
             }
 
 
@@ -442,46 +454,66 @@ namespace Shooter
             bgLayer1.Draw(spriteBatch);
             bgLayer2.Draw(spriteBatch);
 
-            // Draw the enemies
-            for (int i = 0; i < enemies.Count; i++)
+            if (player.Health > 0)
             {
-                enemies[i].Draw(spriteBatch);
-            }
-            
-            // Draw the Projectiles
-            for (int i = 0; i < projectiles.Count; i++)
-            {
-                projectiles[i].Draw(spriteBatch);
-            }
-
-            // Draw the Player
-            player.Draw(spriteBatch);
-
-            // Draw the explosions
-            for (int i = 0; i < explosions.Count; i++)
-            {
-                explosions[i].Draw(spriteBatch);
-            }
-
-            // Draw the score
-            spriteBatch.DrawString(font, "score: " + score, new Vector2(GraphicsDevice.Viewport.TitleSafeArea.X, GraphicsDevice.Viewport.TitleSafeArea.Y), Color.White);
-            // Draw the player health
-            spriteBatch.DrawString(font, "health: " + player.Health, new Vector2(GraphicsDevice.Viewport.TitleSafeArea.X, GraphicsDevice.Viewport.TitleSafeArea.Y + 30), Color.White);
-
-            // Stop drawing
-            spriteBatch.End(); 
-            
-            base.Draw(gameTime);
-
-            // reset score if player health goes to zero
-            if (player.Health <= 0)
-            {
-                player.Health = 100;
-                if (score > 0)
+                // Draw the enemies
+                for (int i = 0; i < enemies.Count; i++)
                 {
-                    score = (score / 2);
+                    enemies[i].Draw(spriteBatch);
+                }
+
+                // Draw the Projectiles
+                for (int i = 0; i < projectiles.Count; i++)
+                {
+                    projectiles[i].Draw(spriteBatch);
+                }
+
+                // Draw the Player
+                player.Draw(spriteBatch);
+
+                // Draw the explosions
+                for (int i = 0; i < explosions.Count; i++)
+                {
+                    explosions[i].Draw(spriteBatch);
+                }
+
+                // Draw the score
+                spriteBatch.DrawString(font, "score: " + score, new Vector2(GraphicsDevice.Viewport.TitleSafeArea.X, GraphicsDevice.Viewport.TitleSafeArea.Y), Color.White);
+                // Draw the player health
+                spriteBatch.DrawString(font, "health: " + player.Health, new Vector2(GraphicsDevice.Viewport.TitleSafeArea.X, GraphicsDevice.Viewport.TitleSafeArea.Y + 30), Color.White);
+
+                // reset score if player health goes to zero
+                if (player.Health <= 0)
+                {
+                    if (score > 0)
+                    {
+                        score = (score / 2);
+                    }
+                }
+
+            }
+            else
+            {
+                // Draw the GAME OVER 
+                spriteBatch.DrawString(gameoverfont, "GAME OVER", new Vector2(GraphicsDevice.Viewport.TitleSafeArea.X + 250, GraphicsDevice.Viewport.TitleSafeArea.Y + 300), Color.Red);
+
+                if (gameTime.TotalGameTime - previousGameoverTime > gameoverTime)
+                {
+                    // Reset our current
+                    previousGameoverTime = gameTime.TotalGameTime;
+
+                    // Restart game
+                    player.Health = 100;
+                    score = 0;
                 }
             }
+
+            // Stop drawing
+            spriteBatch.End();
+
+            base.Draw(gameTime);
+
+
         }
     }
 }

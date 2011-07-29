@@ -86,3 +86,10 @@ C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\ob
 bin\Windows Phone\Debug\
 C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.xap
 C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\gameOverFont.xnb
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.xap
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\

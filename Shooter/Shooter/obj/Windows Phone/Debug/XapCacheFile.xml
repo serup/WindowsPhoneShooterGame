@@ -1,9 +1,9 @@
-﻿<xapCache source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="29-07-2011 10:18:33">
+﻿<xapCache source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="29-07-2011 11:56:47">
   <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\Background.png" archivePath="Background.png" lastWriteTime="15-04-2011 12:57:46" />
-  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\GameThumbnail.png" archivePath="GameThumbnail.png" lastWriteTime="15-04-2011 12:57:46" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\GameThumbnail.png" archivePath="GameThumbnail.png" lastWriteTime="02-06-2011 16:48:22" />
   <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12-07-2011 12:30:05" />
   <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\obj\Windows Phone\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="12-07-2011 12:30:05" />
-  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.dll" archivePath="Shooter.dll" lastWriteTime="29-07-2011 10:18:31" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Shooter.dll" archivePath="Shooter.dll" lastWriteTime="29-07-2011 11:56:46" />
   <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\bgLayer1.xnb" archivePath="Content\bgLayer1.xnb" lastWriteTime="28-07-2011 23:33:13" />
   <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\bgLayer2.xnb" archivePath="Content\bgLayer2.xnb" lastWriteTime="28-07-2011 23:33:13" />
   <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\endMenu.xnb" archivePath="Content\endMenu.xnb" lastWriteTime="28-07-2011 23:33:13" />
@@ -20,6 +20,7 @@
   <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\gameMusic.xnb" archivePath="Content\Sound\gameMusic.xnb" lastWriteTime="28-07-2011 23:33:18" />
   <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\menuMusic.xnb" archivePath="Content\Sound\menuMusic.xnb" lastWriteTime="28-07-2011 23:33:20" />
   <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\gameFont.xnb" archivePath="Content\gameFont.xnb" lastWriteTime="28-07-2011 23:33:20" />
+  <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\gameOverFont.xnb" archivePath="Content\gameOverFont.xnb" lastWriteTime="29-07-2011 11:56:45" />
   <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\gameMusic.wma" archivePath="Content\Sound\gameMusic.wma" lastWriteTime="28-07-2011 23:33:18" />
   <file source="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\bin\Windows Phone\Debug\Content\Sound\menuMusic.wma" archivePath="Content\Sound\menuMusic.wma" lastWriteTime="28-07-2011 23:33:20" />
 </xapCache>

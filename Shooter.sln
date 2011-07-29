@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2010 Express for Windows Phone
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShooterContent", "Shooter\ShooterContent\ShooterContent.contentproj", "{301A0986-067D-486C-9FDE-689861944A3A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooter", "Shooter\Shooter\Shooter.csproj", "{94686225-7A7C-4F5D-827B-0D53890C5D62}"
@@ -32,6 +32,7 @@ Global
 		{94686225-7A7C-4F5D-827B-0D53890C5D62}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
 		{94686225-7A7C-4F5D-827B-0D53890C5D62}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
 		{94686225-7A7C-4F5D-827B-0D53890C5D62}.Debug|x86.ActiveCfg = Debug|Windows Phone
+		{94686225-7A7C-4F5D-827B-0D53890C5D62}.Debug|x86.Build.0 = Debug|Windows Phone
 		{94686225-7A7C-4F5D-827B-0D53890C5D62}.Debug|Xbox 360.ActiveCfg = Debug|Windows Phone
 		{94686225-7A7C-4F5D-827B-0D53890C5D62}.Release|Mixed Platforms.ActiveCfg = Release|Windows Phone
 		{94686225-7A7C-4F5D-827B-0D53890C5D62}.Release|Mixed Platforms.Build.0 = Release|Windows Phone
@@ -40,6 +41,7 @@ Global
 		{94686225-7A7C-4F5D-827B-0D53890C5D62}.Release|Windows Phone.Build.0 = Release|Windows Phone
 		{94686225-7A7C-4F5D-827B-0D53890C5D62}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
 		{94686225-7A7C-4F5D-827B-0D53890C5D62}.Release|x86.ActiveCfg = Release|Windows Phone
+		{94686225-7A7C-4F5D-827B-0D53890C5D62}.Release|x86.Build.0 = Release|Windows Phone
 		{94686225-7A7C-4F5D-827B-0D53890C5D62}.Release|Xbox 360.ActiveCfg = Release|Windows Phone
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution

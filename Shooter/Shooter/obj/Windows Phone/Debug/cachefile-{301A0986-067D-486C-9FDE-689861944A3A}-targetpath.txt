@@ -16,3 +16,4 @@ Content\Sound\gameMusic.wma
 Content\Sound\menuMusic.xnb
 Content\Sound\menuMusic.wma
 Content\gameFont.xnb
+Content\gameOverFont.xnb
