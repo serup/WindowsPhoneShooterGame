@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Shooter_VS2008">
+</Property><Property Name="Solution File" Value="C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter_VS2008.sln">
+</Property><Property Name="Date" Value="28. juli 2011">
+</Property><Property Name="Time" Value="12:46">
+</Property></Properties><Event ErrorLevel="0" Project="ShooterContent" Source="Shooter\ShooterContent\ShooterContent.contentproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="ShooterContent" Source="Shooter\ShooterContent\ShooterContent.contentproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Shooter" Source="Shooter\Shooter\Shooter.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Shooter" Source="Shooter\Shooter\Shooter.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="2" Project="ShooterContent" Source="Shooter\ShooterContent\ShooterContent.contentproj" Description="The project file 'C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\ShooterContent\ShooterContent.contentproj' cannot be opened.&#xA;&#xA;The project type is not supported by this installation.">
+</Event><Event ErrorLevel="2" Project="Shooter" Source="Shooter\Shooter\Shooter.csproj" Description="The project file 'C:\Users\cavdarserup\Documents\My Dropbox\WindowsGame_shooter\Shooter\Shooter\Shooter.csproj' cannot be opened.&#xA;&#xA;The project type is not supported by this installation.">
+</Event><Event ErrorLevel="0" Project="" Source="Shooter_VS2008.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Shooter_VS2008.sln" Description="Converted">
+</Event></UpgradeLog>
