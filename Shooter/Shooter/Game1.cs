@@ -64,7 +64,11 @@ namespace Shooter
         // The music played during gameplay
         Song gameplayMusic;
 
+        // Number that holds the player score
+        int score;
 
+        // The font used to display the UI elements
+        SpriteFont font;
 
         public Game1()
         {
@@ -111,6 +115,9 @@ namespace Shooter
 
             // Initialize explosions
             explosions = new List<Animation>();
+
+            // Set player's score to zero
+            score = 0;
             
             base.Initialize();
         }
@@ -165,6 +172,9 @@ namespace Shooter
             // Load the laser and explosion sound effect
             laserSound = Content.Load<SoundEffect>("sound/laserFire");
             explosionSound = Content.Load<SoundEffect>("sound/explosion");
+            // Load the score font
+            font = Content.Load<SpriteFont>("gameFont");
+
             // Start the music right away
             PlayMusic(gameplayMusic);
 
@@ -331,7 +341,7 @@ namespace Shooter
 
             // Make sure that the player does not go out of bounds
             player.Position.X = MathHelper.Clamp(player.Position.X, 0, GraphicsDevice.Viewport.Width - player.Width);
-            player.Position.Y = MathHelper.Clamp(player.Position.Y, 0, GraphicsDevice.Viewport.Height - player.Health);
+            player.Position.Y = MathHelper.Clamp(player.Position.Y, 0, GraphicsDevice.Viewport.Height - player.Height);
 
             // Fire only every interval we set as the fireTime
             if (gameTime.TotalGameTime - previousFireTime > fireTime)
@@ -345,6 +355,18 @@ namespace Shooter
                 // Play the laser sound
                 laserSound.Play();
             }
+
+            if (player.Health <= 0)
+            {
+                // Add an explosion
+                AddExplosions(player.Position);
+                // Play the explosion sound
+                explosionSound.Play();
+                // Add to the player's score
+                score -= 100;
+            }
+
+
 
         }
 
@@ -393,6 +415,8 @@ namespace Shooter
                         AddExplosions(enemies[i].Position);
                         // Play the explosion sound
                         explosionSound.Play();
+                        // Add to the player's score
+                        score += enemies[i].Value;
                     }
 
                     enemies.RemoveAt(i);
@@ -439,11 +463,22 @@ namespace Shooter
                 explosions[i].Draw(spriteBatch);
             }
 
+            // Draw the score
+            spriteBatch.DrawString(font, "score: " + score, new Vector2(GraphicsDevice.Viewport.TitleSafeArea.X, GraphicsDevice.Viewport.TitleSafeArea.Y), Color.White);
+            // Draw the player health
+            spriteBatch.DrawString(font, "health: " + player.Health, new Vector2(GraphicsDevice.Viewport.TitleSafeArea.X, GraphicsDevice.Viewport.TitleSafeArea.Y + 30), Color.White);
+
             // Stop drawing
             spriteBatch.End(); 
-
-
+            
             base.Draw(gameTime);
+
+            // reset score if player health goes to zero
+            if (player.Health <= 0)
+            {
+                player.Health = 100;
+                //score = 0;
+            }
         }
     }
 }
